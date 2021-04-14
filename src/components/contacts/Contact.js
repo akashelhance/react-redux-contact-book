@@ -2,7 +2,7 @@ import React from 'react'
 import Avatar from "react-avatar";
 
 import { Link } from "react-router-dom";
-npm
+
 const Contact = ({contact}) => {
     const {name,phone,email,id} = contact
     return (
